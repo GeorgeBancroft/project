@@ -1,3 +1,19 @@
+
+html, body {height: 100%;}
+
+#wrap {min-height: 100%;}
+
+#main {overflow:auto;
+	padding-bottom: 150px;} 
+
+#footer {position: relative;
+	margin-top: -150px; 
+	height: 150px;
+	clear:both;} 
+
+
+body:before {
+	content:"
 * {
 	font-family: helvetica;
 	background: #dd5741;
@@ -46,21 +62,8 @@ ul.nav li{
 	margin: 10px;
 	padding: 10px;
 }
-html, body {height: 100%;}
 
-#wrap {min-height: 100%;}
-
-#main {overflow:auto;
-	padding-bottom: 150px;} 
-
-#footer {position: relative;
-	margin-top: -150px; 
-	height: 150px;
-	clear:both;} 
-
-
-body:before {
-	content:"";
+	";
 	height:100%;
 	float:left;
 	width:0;
