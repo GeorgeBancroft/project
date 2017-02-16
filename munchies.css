@@ -1,0 +1,48 @@
+* {
+	font-family: helvetica;
+	background: #dd5741;
+	}
+.center{
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
+.nav{
+	text-align: center;
+}
+ul.nav li{
+    display: inline-block;
+    padding-right: 10px;
+}
+.nav li a{
+	color: black;
+	text-decoration: none;
+}
+.nav li a:hover{
+	color: white;
+}
+#about_blue{
+	background: #dd5741;
+	}
+#about_yellow{
+	background: #FFEBCD;
+}
+#about_blue li{
+	color: blue;
+}
+	h2{ 
+	text-align: center;
+	text-decoration: underline;
+}
+#about_yellow li{
+	color: orange;
+}
+.important{
+	font-size: 16px;
+	font-weight: bold;
+}
+.color-info{
+	border: 3px solid black;
+	margin: 10px;
+	padding: 10px;
+}
