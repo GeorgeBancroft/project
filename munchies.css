@@ -59,11 +59,18 @@ html, body {
 #main {overflow:auto;
 	padding-bottom: 150px;} 
 
-#footer {position: relative;
+#footer {
+	position: relative;
 	margin-top: -150px; 
 	height: 150px;
 	background-color: white;
-	clear:both;} 
+	clear:both;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: center;
+}
+
+
 
 
 body:before {
@@ -74,3 +81,6 @@ body:before {
 	margin-top:-32767px;/
 }
 
+h3{
+	align-content: center;
+}
