@@ -71,8 +71,6 @@ html, body {
 }
 
 
-
-
 body:before {
 	content:"	";
 	height:100%;
@@ -81,12 +79,12 @@ body:before {
 	margin-top:-32767px;/
 }
 
-#logos {
+.logos {
 	text-align: center;
 }
 
-#logos img{
-	padding: 20px;
+.logos img{
+	padding-right: 20px;
 }
 
 
