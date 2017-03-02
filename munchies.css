@@ -81,4 +81,14 @@ body:before {
 	margin-top:-32767px;/
 }
 
+#logos {
+	text-align: center;
+}
+
+#logos img{
+	padding: 20px;
+}
+
+
+
 
