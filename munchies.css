@@ -63,7 +63,7 @@ html, body {
 	position: relative;
 	margin-top: -150px; 
 	height: 150px;
-	background-color: white;
+	background-color: #FFF8DC;
 	clear:both;
     margin-left: 20px;
     margin-right: 20px;
@@ -71,10 +71,6 @@ html, body {
 }
 
 
-
-background-color: #FFF8DC;
-	clear:both;} 
-	origin/master
 
 
 body:before {
